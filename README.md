@@ -14,7 +14,7 @@ ON customers_table_week_5 . NAME;
 - python
 - my sql
 
-
+![](potfoli.png)
   ```
   GOOLGLE QUERY SHEET
 
