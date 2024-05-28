@@ -22,5 +22,13 @@ ON customers_table_week_5 . NAME;
   SELECT*FROM TABLE 1
   WHERE CONDITION = MET
 
+```
 
-  ```
+
+
+|HEADING 1|HEADING 2|HEADING 3|
+|---------|---------|---------|
+|DATA 1|DATA 2|DATA 3|
+
+
+
